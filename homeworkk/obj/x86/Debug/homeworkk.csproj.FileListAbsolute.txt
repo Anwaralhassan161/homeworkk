@@ -1,0 +1,4 @@
+C:\Users\Laptop Syria\Desktop\homeworkk\homeworkk\bin\Debug\homeworkk.exe
+C:\Users\Laptop Syria\Desktop\homeworkk\homeworkk\bin\Debug\homeworkk.pdb
+C:\Users\Laptop Syria\Desktop\homeworkk\homeworkk\obj\x86\Debug\homeworkk.exe
+C:\Users\Laptop Syria\Desktop\homeworkk\homeworkk\obj\x86\Debug\homeworkk.pdb
